@@ -1,5 +1,3 @@
-#Arduino hardware keyboard fuzzer
-
 So, this is in escence a usb keyboard fuzzer.
 
 This tool can be very helpfull when you need, for example, to test different key combinations. 
